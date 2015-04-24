@@ -1,1 +1,3 @@
-name, date, description
+Allison Montroy 4/23/15
+
+Takes shape made in Lab 4 and places it over a plane and casts a shadow. Program is made and edited with help from shadow.html example. Code for Matrix is included as a script in the HTML page.
